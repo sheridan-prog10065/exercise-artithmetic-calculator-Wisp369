@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="MathOperators.app/MathOperators">
+      <IsAppExtension>false</IsAppExtension>
+      <BCSymbolMapName>MathOperators.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>MathOperators.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/aaronager/Documents/School/Year1/Sem2/InteractiveAppDevelopment/exercise-artithmetic-calculator-Wisp369/obj/Debug/net8.0-ios/iossimulator-arm64/mtouch-symbols.list</SymbolFile>
+      <DSymName>MathOperators.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/aaronager/Documents/School/Year1/Sem2/InteractiveAppDevelopment/exercise-artithmetic-calculator-Wisp369</SourceProjectPath>
+      <IsXPCService></IsXPCService>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
